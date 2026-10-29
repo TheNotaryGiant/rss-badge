@@ -1,0 +1,1 @@
+This version uses the official W3C image host, so you only need to upload the HTML file. No png needed.
