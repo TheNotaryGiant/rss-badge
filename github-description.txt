@@ -1,0 +1,12 @@
+REPO SETTINGS TO USE:
+
+Go to Settings > General on GitHub and paste:
+
+Description field:
+Valid RSS badge for thenotarygiant.com - W3C compliant RSS feed validator badge linking to https://thenotarygiant.com/feed.xml
+
+Website field:
+https://thenotarygiant.com/feed.xml
+
+Topics:
+rss, rss-feed, w3c, w3c-validator, feed-validator, thenotarygiant
